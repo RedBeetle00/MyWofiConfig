@@ -1,0 +1,7 @@
+allow_images=true
+image_size=32
+no_actions=true
+width=300px
+height=200px
+hide_scroll=true
+prompt=
