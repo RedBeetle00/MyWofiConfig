@@ -1,2 +1,2 @@
-How it looks
+## How it looks
 ![image description](Exemple)
